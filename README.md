@@ -2,6 +2,10 @@
 
 Modern, dark-themed developer portfolio built with React and Tailwind CSS.
 
+## 🌐 Live Site
+
+**Visit:** [https://portfolio-dusky-omega-53.vercel.app/](https://portfolio-dusky-omega-53.vercel.app/)
+
 ## 🚀 Quick Start
 
 ```bash
@@ -15,12 +19,12 @@ npm start
 npm run build
 ```
 
-## 🌐 Live Site
+## 🛠️ Tech Stack
 
-Visit: [Your deployed URL here]
+- React
+- Tailwind CSS
+- Vercel (Deployment)
 
 ---
 
-Built with React & Tailwind CSS
-
-
+Built with ❤️ by Ashit Verma
