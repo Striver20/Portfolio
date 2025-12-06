@@ -3,11 +3,11 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
-      title: "Urbanix",
-      subtitle: "E-commerce Platform",
-      description: "Full-stack marketplace with authentication, admin dashboard, and secure checkout. Built with MERN stack.",
-      technologies: ["MERN", "JWT", "Vercel", "Railway"],
-      github: "https://github.com/Striver20/Urbanix",
+      title: "Agentic Knowledge Workspace",
+      subtitle: "AI Document Q&A Platform",
+      description: "Built multi-tenant RAG platform with hybrid search (vector + BM25), cross-encoder re-ranking, and real-time SSE streaming for document Q&A. Integrated LangChain AI agents for automated email drafting, Jira ticket creation, and report generation with JWT auth and role-based access.",
+      technologies: ["Next.js 14", "FastAPI", "LangChain", "pgvector"],
+      github: "https://github.com/YOUR_USERNAME/Agentic-Knowledge-Workspace",
     },
     {
       title: "Learning Management System",

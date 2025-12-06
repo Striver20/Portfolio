@@ -3,11 +3,11 @@ import React from 'react';
 const Skills = () => {
   const skillCategories = [
     { title: "Languages", skills: ["C++", "Java", "JavaScript", "SQL", "Python"] },
-    { title: "Frontend", skills: ["React", "Tailwind CSS", "Material UI", "HTML/CSS"] },
-    { title: "Backend", skills: ["Spring Boot", "Node.js", "REST APIs", "JWT", "Redis"] },
-    { title: "Databases", skills: ["MySQL", "MongoDB", "PostgreSQL"] },
+    { title: "Frontend", skills: ["React", "Next.js 14", "Tailwind CSS", "Material UI", "HTML/CSS"] },
+    { title: "Backend", skills: ["Spring Boot", "FastAPI", "Node.js", "REST APIs", "JWT", "Redis"] },
+    { title: "Databases", skills: ["MySQL", "MongoDB", "PostgreSQL", "pgvector"] },
     { title: "Cloud & Tools", skills: ["AWS", "Docker", "Git"] },
-    { title: "AI/ML", skills: ["Machine Learning", "Deep Learning", "Data Analysis"] }
+    { title: "AI/ML", skills: ["Machine Learning", "Deep Learning", "LangChain", "Data Analysis"] }
   ];
 
   return (
